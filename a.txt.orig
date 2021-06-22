@@ -1,5 +1,7 @@
 Master branch change
 Develop branch code added
+<<<<<<< HEAD
 Feature1 added
+=======
 new changed
-
+>>>>>>> feature2
